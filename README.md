@@ -18,7 +18,7 @@ Client_Strings_Ui: 914150 and so on
 Client_Strings_Quest: 1803956 and so on
 
 Status:  
-- client_strings_bm.xml  
+client_strings_bm.xml  
 - client_strings_bmrestrict.xml  
 - client_strings_dic_etc.xml  
 - client_strings_dic_item.xml  
@@ -37,8 +37,8 @@ Status:
 - client_strings_msg.xml  
 - client_strings_npc.xml  
 - client_strings_skill.xml  
-- client_strings_ui.xml | 100% (Broken English) 
+100% (Broken English) | client_strings_ui.xml  
 - stringtable_dialog.xml  
-- stringtable_gg.xml  | 100% 
-- stringtable_hs.xml  | 100% 
-- stringtable_tip.xml | 100% 
+100% | stringtable_gg.xml  
+100% | stringtable_hs.xml  
+100% | stringtable_tip.xml  
