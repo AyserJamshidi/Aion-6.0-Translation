@@ -10,4 +10,9 @@ Step 3: Open the zip file, highlight everything, drag it into the NEW STRINGS FO
 Step 4: Reopen Aion if you haven't already.  
 
 Note:  
-This will not translate NPC or quest dialog.  It is only for your interface to make it readable.
+This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
+
+
+Currently working on:
+Client_Strings_Ui: 914150 and so on
+Client_Strings_Quest: 1803956 and so on
