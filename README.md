@@ -37,7 +37,7 @@ Status:
 - client_strings_msg.xml  
 - client_strings_npc.xml  
 - client_strings_skill.xml  
-100% (Broken English) - client_strings_ui.xml  
+- client_strings_ui.xml | 100% (Broken English) 
 - stringtable_dialog.xml  
 - stringtable_gg.xml  
 - stringtable_hs.xml  
