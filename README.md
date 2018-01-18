@@ -25,7 +25,7 @@ client_strings_dic_item.xml
 client_strings_dic_monster.xml  
 client_strings_dic_people.xml  
 100% (Broken English) | client_strings_dic_place.xml  
-client_strings_etc.xml  
+100% | client_strings_etc.xml  
 client_strings_funcpet.xml  
 client_strings_gossip.xml  
 client_strings_item.xml  
