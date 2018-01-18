@@ -14,5 +14,31 @@ This will not translate NPC or quest dialog.  It is only for your interface to m
 
 
 Currently working on:
-Client_Strings_Quest: 1803956 and so on  
-Client_Strings_Skill: 2291309 to 2292022
+Client_Strings_Ui: 914150 and so on
+Client_Strings_Quest: 1803956 and so on
+
+Status:  
+- client_strings_bm.xml  
+- client_strings_bmrestrict.xml  
+- client_strings_dic_etc.xml  
+- client_strings_dic_item.xml  
+- client_strings_dic_monster.xml  
+- client_strings_dic_people.xml  
+- client_strings_dic_place.xml  
+- client_strings_etc.xml  
+- client_strings_funcpet.xml  
+- client_strings_gossip.xml  
+- client_strings_item.xml  
+- client_strings_item2.xml  
+- client_strings_item3.xml  
+- client_strings_item4.xml  
+- client_strings_level.xml  
+- client_strings_monster.xml  
+- client_strings_msg.xml  
+- client_strings_npc.xml  
+- client_strings_skill.xml  
+100% (Broken English) - client_strings_ui.xml  
+- stringtable_dialog.xml  
+- stringtable_gg.xml  
+- stringtable_hs.xml  
+- stringtable_tip.xml  
