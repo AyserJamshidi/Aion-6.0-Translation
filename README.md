@@ -14,5 +14,5 @@ This will not translate NPC or quest dialog.  It is only for your interface to m
 
 
 Currently working on:
-Client_Strings_Ui: 914150 and so on
-Client_Strings_Quest: 1803956 and so on
+Client_Strings_Quest: 1803956 and so on  
+Client_Strings_Skill: 2291309 to 2292022
