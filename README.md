@@ -1,4 +1,4 @@
-Instructions  
+**Instructions**  
 
 Step 1: Click "Clone or download"  
 https://i.imgur.com/Nz0mT5H.png  
@@ -13,7 +13,7 @@ Note:
 This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
 
 
-Currently working on:
+**Currently working on**  
 Client_Strings_Ui: 914150 and so on  
 Client_Strings_Quest: 1803956 and so on  
 
