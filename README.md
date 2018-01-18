@@ -39,6 +39,6 @@ Status:
 - client_strings_skill.xml  
 - client_strings_ui.xml | 100% (Broken English) 
 - stringtable_dialog.xml  
-- stringtable_gg.xml  
-- stringtable_hs.xml  
-- stringtable_tip.xml  
+- stringtable_gg.xml  | 100% 
+- stringtable_hs.xml  | 100% 
+- stringtable_tip.xml | 100% 
