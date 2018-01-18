@@ -1,4 +1,4 @@
-Instructions  
+**Instructions**  
 
 Step 1: Click "Clone or download"  
 https://i.imgur.com/Nz0mT5H.png  
@@ -13,32 +13,32 @@ Note:
 This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
 
 
-Currently working on:
-Client_Strings_Ui: 914150 and so on
-Client_Strings_Quest: 1803956 and so on
+**Currently working on**  
+Client_Strings_Ui: 914150 and so on  
+Client_Strings_Quest: 1803956 and so on  
 
 Status:  
-- client_strings_bm.xml  
-- client_strings_bmrestrict.xml  
-- client_strings_dic_etc.xml  
-- client_strings_dic_item.xml  
-- client_strings_dic_monster.xml  
-- client_strings_dic_people.xml  
-- client_strings_dic_place.xml  
-- client_strings_etc.xml  
-- client_strings_funcpet.xml  
-- client_strings_gossip.xml  
-- client_strings_item.xml  
-- client_strings_item2.xml  
-- client_strings_item3.xml  
-- client_strings_item4.xml  
-- client_strings_level.xml  
-- client_strings_monster.xml  
-- client_strings_msg.xml  
-- client_strings_npc.xml  
-- client_strings_skill.xml  
-- client_strings_ui.xml | 100% (Broken English) 
-- stringtable_dialog.xml  
-- stringtable_gg.xml  
-- stringtable_hs.xml  
-- stringtable_tip.xml  
+client_strings_bm.xml  
+client_strings_bmrestrict.xml  
+client_strings_dic_etc.xml  
+client_strings_dic_item.xml  
+client_strings_dic_monster.xml  
+client_strings_dic_people.xml  
+client_strings_dic_place.xml  
+client_strings_etc.xml  
+client_strings_funcpet.xml  
+client_strings_gossip.xml  
+client_strings_item.xml  
+client_strings_item2.xml  
+client_strings_item3.xml  
+client_strings_item4.xml  
+client_strings_level.xml  
+client_strings_monster.xml  
+client_strings_msg.xml  
+client_strings_npc.xml  
+client_strings_skill.xml  
+100% (Broken English) | client_strings_ui.xml  
+stringtable_dialog.xml  
+100% | stringtable_gg.xml  
+100% | stringtable_hs.xml  
+100% | stringtable_tip.xml  
