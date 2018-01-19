@@ -12,7 +12,7 @@ Step 4: Reopen Aion if you haven't already.
 Note:  
 This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
 
-#Status 
+# Status 
 
 File Name | Status
 -------------------------- | --------------------------  
@@ -40,3 +40,5 @@ stringtable_dialog.xml | ????
 stringtable_gg.xml | 100% (Perfect English)  
 stringtable_hs.xml | 100% (Perfect English)  
 stringtable_tip.xml | 100% (Perfect English)  
+
+# How To Contribute
