@@ -1,4 +1,4 @@
-**Instructions**  
+# Instructions
 
 Step 1: Click "Clone or download"  
 https://i.imgur.com/Nz0mT5H.png  
@@ -12,33 +12,33 @@ Step 4: Reopen Aion if you haven't already.
 Note:  
 This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
 
+# Status 
 
-**Currently working on**  
-Client_Strings_Ui: 914150 and so on  
-Client_Strings_Quest: 1803956 and so on  
+File Name | Status
+-------------------------- | --------------------------  
+client_strings_bm.xml | ????  
+client_strings_bmrestrict.xml | ????  
+client_strings_dic_etc.xml | ????  
+client_strings_dic_item.xml | ????  
+client_strings_dic_monster.xml | ????  
+client_strings_dic_people.xml | ????  
+client_strings_dic_place.xml | 100% (Broken English)  
+client_strings_etc.xml | 100% (Perfect English)  
+client_strings_funcpet.xml | ????  
+client_strings_gossip.xml | 100% (Broken English)  
+client_strings_item.xml | 100% (Perfect English)  
+client_strings_item2.xml | 100% (Perfect English) 
+client_strings_item3.xml | ????  
+client_strings_item4.xml | ????  
+client_strings_level.xml | ????  
+client_strings_monster.xml | ????  
+client_strings_msg.xml | ????  
+client_strings_npc.xml | ????  
+client_strings_skill.xml | ????  
+client_strings_ui.xml | 100% (Broken English)  
+stringtable_dialog.xml | ????  
+stringtable_gg.xml | 100% (Perfect English)  
+stringtable_hs.xml | 100% (Perfect English)  
+stringtable_tip.xml | 100% (Perfect English)  
 
-Status:  
-client_strings_bm.xml  
-client_strings_bmrestrict.xml  
-client_strings_dic_etc.xml  
-client_strings_dic_item.xml  
-client_strings_dic_monster.xml  
-client_strings_dic_people.xml  
-100% (Broken English) | client_strings_dic_place.xml  
-100% | client_strings_etc.xml  
-client_strings_funcpet.xml  
-client_strings_gossip.xml  
-client_strings_item.xml  
-client_strings_item2.xml  
-client_strings_item3.xml  
-client_strings_item4.xml  
-client_strings_level.xml  
-client_strings_monster.xml  
-client_strings_msg.xml  
-client_strings_npc.xml  
-client_strings_skill.xml  
-100% (Broken English) | client_strings_ui.xml  
-stringtable_dialog.xml  
-100% | stringtable_gg.xml  
-100% | stringtable_hs.xml  
-100% | stringtable_tip.xml  
+# How To Contribute
