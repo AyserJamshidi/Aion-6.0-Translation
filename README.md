@@ -29,7 +29,7 @@ client_strings_gossip.xml | 100% (Broken English)
 client_strings_item.xml | 100% (Perfect English)  
 client_strings_item2.xml | 100% (Perfect English) 
 client_strings_item3.xml | ????  
-client_strings_item4.xml | ????  
+client_strings_item4.xml | 100% (Broken English)  
 client_strings_level.xml | ????  
 client_strings_monster.xml | ????  
 client_strings_msg.xml | ????  
