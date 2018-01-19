@@ -21,7 +21,7 @@ Strings/client_strings_dic_monster.xml | ????
 Strings/client_strings_dic_people.xml | ????  
 Strings/client_strings_dic_place.xml | 100% (Broken English)  
 Strings/client_strings_etc.xml | 100% (Perfect English)  
-Strings/client_strings_funcpet.xml | ????  
+Strings/client_strings_funcpet.xml | 100% (Perfect English)  
 Strings/client_strings_gossip.xml | 100% (Broken English)  
 Strings/client_strings_item.xml | 100% (Perfect English)  
 Strings/client_strings_item2.xml | 100% (Perfect English) 
