@@ -33,7 +33,7 @@ Strings/client_strings_msg.xml | ????
 Strings/client_strings_npc.xml | ????  
 Strings/client_strings_skill.xml | ????  
 Strings/client_strings_ui.xml | 100% (Broken English)  
-Strings/stringtable_dialog.xml | ????  
+Strings/stringtable_dialog.xml | 100% (Broken English)  
 Strings/stringtable_gg.xml | 100% (Perfect English)  
 Strings/stringtable_hs.xml | 100% (Perfect English)  
 Strings/stringtable_tip.xml | 100% (Perfect English)  
