@@ -9,9 +9,6 @@ Step 3: Open the zip file, highlight everything, drag it into the folder you jus
 
 Step 4: Reopen Aion if you haven't already.  
 
-Note:  
-This will not translate NPC or quest dialog.  It is only for your interface to make it readable.  
-
 # Status 
 
 File Name | Status
