@@ -1,7 +1,7 @@
 # Instructions
 
 Step 1: Click "Clone or download"  
-https://i.imgur.com/Nz0mT5H.png  
+![Optional Text](https://i.imgur.com/Nz0mT5H.png)  
 
 Step 2: Open your **AION_KR\l10n\kor\data\** folder.  
 
