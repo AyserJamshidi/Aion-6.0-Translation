@@ -32,19 +32,11 @@ client_strings_monster.xml
 client_strings_msg.xml  
 client_strings_npc.xml  
 client_strings_skill.xml  
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 File Name | Status
 -------------------------- | --------------------------  
 client_strings_ui.xml | 100% (Broken English)  
--------------------------- | --------------------------  
 stringtable_dialog.xml | ????  
--------------------------- | --------------------------  
 stringtable_gg.xml | 100% (Perfect English)  
--------------------------- | --------------------------  
 stringtable_hs.xml | 100% (Perfect English)  
--------------------------- | --------------------------  
 stringtable_tip.xml | 100% (Perfect English)  
