@@ -3,7 +3,7 @@
 Step 1: Click "Clone or download"  
 <img src="https://i.imgur.com/uDKzibG.png" width="350"/>
 
-Step 2: Open your **AION_KR\l10n\kor\data\** folder.  
+Step 2: Open your **AION_KR/l10n/kor/data/** folder.  
 
 Step 3: Open the zip file, highlight everything, drag it into the folder you just opened.  
 
@@ -28,7 +28,7 @@ client_strings_funcpet.xml | ????
 client_strings_gossip.xml | 100% (Broken English)  
 client_strings_item.xml | 100% (Perfect English)  
 client_strings_item2.xml | 100% (Perfect English) 
-client_strings_item3.xml | ????  
+client_strings_item3.xml | 75% Perfect English, 25% Korean  
 client_strings_item4.xml | 100% (Broken English)  
 client_strings_level.xml | ????  
 client_strings_monster.xml | ????  
