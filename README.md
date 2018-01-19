@@ -13,8 +13,8 @@ Step 4: Reopen Aion if you haven't already.
 
 File Name | Status
 -------------------------- | --------------------------  
-Strings/client_strings_bm.xml | ????  
-Strings/client_strings_bmrestrict.xml | ????  
+Strings/client_strings_bm.xml | 100% (Perfect English)  
+Strings/client_strings_bmrestrict.xml | 100% (Perfect English)  
 Strings/client_strings_dic_etc.xml | ????  
 Strings/client_strings_dic_item.xml | ????  
 Strings/client_strings_dic_monster.xml | ????  
