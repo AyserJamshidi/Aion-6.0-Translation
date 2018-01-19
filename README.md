@@ -1,7 +1,7 @@
 # Instructions
 
 Step 1: Click "Clone or download"  
-<img src="https://camo.githubusercontent.com/5ccb1582429e670280762b4cc4a259b143e32b1e/68747470733a2f2f7075752e73682f7a345859482f316434393430623832622e706e67" width="350"/>
+<img src="https://i.imgur.com/uDKzibG.png" width="350"/>
 
 Step 2: Open your **AION_KR\l10n\kor\data\** folder.  
 
