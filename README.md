@@ -40,5 +40,3 @@ stringtable_dialog.xml | ????
 stringtable_gg.xml | 100% (Perfect English)  
 stringtable_hs.xml | 100% (Perfect English)  
 stringtable_tip.xml | 100% (Perfect English)  
-
-# How To Contribute
