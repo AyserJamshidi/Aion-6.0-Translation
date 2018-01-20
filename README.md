@@ -26,13 +26,13 @@ Strings/client_strings_gossip.xml | 100% (Broken English)
 Strings/client_strings_item.xml | 100% (Perfect English)  
 Strings/client_strings_item2.xml | 100% (Perfect English) 
 Strings/client_strings_item3.xml | 75% Perfect English, 25% Korean  
-Strings/client_strings_item4.xml | 100% (Broken English)  
+Strings/client_strings_item4.xml | 100% (Translated English)  
 Strings/client_strings_level.xml | ????  
-Strings/client_strings_monster.xml | ????  
-Strings/client_strings_msg.xml | ????  
-Strings/client_strings_npc.xml | ????  
-Strings/client_strings_skill.xml | ????  
-Strings/client_strings_ui.xml | 100% (Broken English)  
+Strings/client_strings_monster.xml | 100% (Translated English)  
+Strings/client_strings_msg.xml | 100% (Translated English)  
+Strings/client_strings_npc.xml | 100% (Translated English)  
+Strings/client_strings_skill.xml | 100% (Translated English)  
+Strings/client_strings_ui.xml | 100% (Translated English)  
 Strings/stringtable_dialog.xml | 100% (Broken English)  
 Strings/stringtable_gg.xml | 100% (Perfect English)  
 Strings/stringtable_hs.xml | 100% (Perfect English)  
