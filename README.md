@@ -25,9 +25,9 @@ Strings/client_strings_funcpet.xml | 100% (Perfect English)
 Strings/client_strings_gossip.xml | 100% (Broken English)  
 Strings/client_strings_item.xml | 100% (Perfect English)  
 Strings/client_strings_item2.xml | 100% (Perfect English) 
-Strings/client_strings_item3.xml | 75% Perfect English, 25% Korean  
+Strings/client_strings_item3.xml | 75% (Perfect English, 25% Translated English)  
 Strings/client_strings_item4.xml | 100% (Translated English)  
-Strings/client_strings_level.xml | ????  
+Strings/client_strings_level.xml | 100% (Translated English)  
 Strings/client_strings_monster.xml | 100% (Translated English)  
 Strings/client_strings_msg.xml | 100% (Translated English)  
 Strings/client_strings_npc.xml | 100% (Translated English)  
