@@ -5,7 +5,7 @@ Step 1: Click "Clone or download"
 
 Step 2: Open your **AION_KR/l10n/kor/data/** folder.  
 
-Step 3: Open the zip file, highlight everything, drag it into the folder you just opened.  
+Step 3: Open the zip file, open the main folder until you see the **Strings** folder.  Drag and drop that into the folder you just opened.  
 
 Step 4: Reopen Aion if you haven't already.  
 
