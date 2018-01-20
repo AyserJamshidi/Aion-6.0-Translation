@@ -19,7 +19,7 @@ Strings/client_strings_dic_etc.xml | ????
 Strings/client_strings_dic_item.xml | ????  
 Strings/client_strings_dic_monster.xml | ????  
 Strings/client_strings_dic_people.xml | ????  
-Strings/client_strings_dic_place.xml | 100% (Broken English)  
+Strings/client_strings_dic_place.xml | 75% (Perfect English, 25% Translated English)  
 Strings/client_strings_etc.xml | 100% (Perfect English)  
 Strings/client_strings_funcpet.xml | 100% (Perfect English)  
 Strings/client_strings_gossip.xml | 100% (Broken English)  
