@@ -8,12 +8,13 @@ Step 1: Click "Clone or download"
 <img src="https://i.imgur.com/uDKzibG.png" width="350"/>  
 Step 2: Open your **AION_KR/l10n/kor/data/** folder.  
 Step 3: Delete the **ui** and **Strings** folder only if they exist.  
-Step 4: Open the zip file, open the main folder until you see multiple folders (ui/strings).  Drag and drop that into the folder you just opened.  
-Step 5: Reopen Aion if you haven't already.  
+Step 4: Open the downloaded Aion-6.0-Translation.zip file.  
+Step 5: Open the main folder until you see multiple folders (ui/strings).  Drag and drop that into the folder you just opened.  
+Step 6: Reopen Aion if you haven't already.  
 
 # Status 
 
 Folder Name | Status
 -------------------------- | --------------------------  
-Strings Folder | ????  
-UI Folder | ????  
+Strings Folder | Unknown  
+UI Folder | GOOD 
