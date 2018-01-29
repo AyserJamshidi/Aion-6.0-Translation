@@ -1,6 +1,6 @@
 # Warning
 Using this translation breaks a lot of the quest locating features.  Normal /where works fine but using the locate button on the quest dialogs will usually return "Hard to find".  Use Korean dialog in the mean time if you are questing.  
-Expected ETA for fix is January 25th.
+I am actively working on this amongst other translations.
 
 # Instructions/Updating
 
