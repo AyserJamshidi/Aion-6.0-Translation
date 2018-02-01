@@ -18,3 +18,5 @@ Folder Name | Status
 -------------------------- | --------------------------  
 Strings Folder | Unknown  
 UI Folder | GOOD 
+
+If you want to say thank you you can contact me via PM/NC Guestbook in Aion KR on the Poeta server, Asmodian side, character name is **Boobs** (Cleric) or by donating alcohol cashmoney to **AceJamshidi4th@gmail.com via PayPal**.
