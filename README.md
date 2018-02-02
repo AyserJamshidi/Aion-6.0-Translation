@@ -16,7 +16,7 @@ Step 6: Reopen Aion if you haven't already.
 
 Folder Name | Status
 -------------------------- | --------------------------  
-Strings Folder | Unknown  
-UI Folder | GOOD 
+Strings Folder | Actively being worked on  
+UI Folder | 100% 
 
 If you want to say thank you you can contact me via PM/NC Guestbook in Aion KR on the Poeta server, Asmodian side, character name is **Boobs** (Cleric) or by donating alcohol cashmoney to **AceJamshidi4th@gmail.com via PayPal**.
