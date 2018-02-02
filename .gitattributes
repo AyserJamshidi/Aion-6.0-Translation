@@ -9,4 +9,4 @@
 *.gitattributes text
 .gitignore text
 *.md text
-*.xml diff merge text
+*.xml text
