@@ -1,3 +1,1 @@
-#*.xml diff=localizablestrings
-[attr]utf16 diff merge -crlf
-*.xml utf16
+*.xml diff merge text
