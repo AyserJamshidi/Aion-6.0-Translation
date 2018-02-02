@@ -1,9 +1,11 @@
+# Note
+Every Wednesday Aion Korea pushes out maintenance.  Please keep an eye out for 6.0 translation updates here every week (few days is preferred) so you don't have missing NPC/Item/Other text.  Every week since 6.0 so far they have added content that I add after translation.
+
 # Warning
 Using this translation breaks a lot of the quest locating features.  Normal /where works fine but using the locate button on the quest dialogs will usually return "Hard to find".  Use Korean dialog in the mean time if you are questing.  
 I am actively working on this amongst other translations.
 
 # Instructions/Updating
-
 Step 1: Click "Clone or download"  
 <img src="https://i.imgur.com/uDKzibG.png" width="350"/>  
 Step 2: Open your **AION_KR/l10n/kor/data/** folder.  
