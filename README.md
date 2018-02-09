@@ -14,8 +14,10 @@ Step 4: Open the downloaded Aion-6.0-Translation.zip file.
 Step 5: Open the main folder until you see multiple folders (ui/strings).  Drag and drop that into the folder you just opened.  
 Step 6: Reopen Aion if you haven't already.  
 
-# Status 
+# Help!  I Updated But Nothing Happened!
+Aion keeps a cache of all language localization files.  This file is located inside the **Aion_KR/data** folder.  Once you've accessed the data folder look for a folder called **dump**.  Delete it and you will now have your game recreate its localization cache once you've opened your game again.
 
+# Status 
 Folder Name | Status
 -------------------------- | --------------------------  
 Strings Folder | Actively being worked on  
