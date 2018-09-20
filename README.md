@@ -18,9 +18,6 @@ Step 6: Reopen Aion if you haven't already.
 Aion keeps a cache of all language localization files.  This file is located inside the **Aion_KR/data** folder.  Once you've accessed the data folder look for a folder called **dump**.  Delete it and you will now have your game recreate its localization cache once you've opened your game again.
 
 # Status 
-Folder Name | Status
--------------------------- | --------------------------  
-Strings Folder | Actively being worked on  
-UI Folder | 100% 
+No longer being worked on.
 
 If you want to say thank you please contact me via PM/NC Guestbook in Aion KR on the Poeta server, Asmodian side, character name is **Boobs** (Cleric) or by donating alcohol cashmoney to **AceJamshidi4th@gmail.com via PayPal**.
